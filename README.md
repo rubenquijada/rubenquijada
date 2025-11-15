@@ -4,9 +4,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portafolio Profesional - Rubén Quijada</title> 
     <!-- Carga de Tailwind CSS -->
-    <script src="./Portafolio Profesional - rubenquijada_files/saved_resource"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
     <!-- Carga de la fuente Inter -->
-    <link href="./Portafolio Profesional - rubenquijada_files/css2" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <style>
         /* Definición de la paleta de colores: Blanco, Negro, Grises y Azul */
         :root {
@@ -197,7 +197,7 @@
                         </a>
                         
                         <!-- Descargar CV - Se mantiene el enlace como plantilla -->
-                        <a href="https://wsanchez-hacker.github.io/rubenquijada/curriculum.pdf" download="Curriculum_Ruben_Quijada.pdf" class="flex items-center justify-center text-center px-8 py-3 text-sm bg-gray-200 text-gray-800 hover:bg-gray-300 transition duration-300 shadow-md rounded-md">
+                        <a href="https://rubenquijada.github.io/rubenquijada/curriculum.pdf" download="Curriculum_Ruben_Quijada.pdf" class="flex items-center justify-center text-center px-8 py-3 text-sm bg-gray-200 text-gray-800 hover:bg-gray-300 transition duration-300 shadow-md rounded-md">
                             <!-- Icono de Descarga -->
                             <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
                             Descargar Currículo
